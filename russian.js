@@ -1,7 +1,7 @@
 {
-  "language": "English",
-  "startmenu.new_game": "NEW GAME",
-  "startmenu.multiplayer": "MULTIPLAYER",
+  "language": "Русский",
+  "startmenu.new_game": "НОВАЯ ИГРА",
+  "startmenu.multiplayer": "МНОГОПОЛЬЗОВАТЕЛЬСКАЯ ИГРА",
   "startmenu.resume_game": "RESUME GAME",
   "startmenu.settings": "Settings",
   "startmenu.high_score": "High Score",
