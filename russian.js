@@ -1,5 +1,5 @@
 {
-  "language": "Русский",
+  "language": "Russian",
   "startmenu.new_game": "НОВАЯ ИГРА",
   "startmenu.multiplayer": "МНОГОПОЛЬЗОВАТЕЛЬСКАЯ ИГРА",
   "startmenu.resume_game": "RESUME GAME",
